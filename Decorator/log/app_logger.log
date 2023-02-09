@@ -1,0 +1,3 @@
+NameFunction: get_articles --> TimeCallFunction: 10-08-2022 07:14:17 --> FuncfArguments: ('https://habr.com/ru/all/', 'https://habr.com', {'Web', 'Видеотехника', 'Браузеры', 'Фото', 'Дизайн', 'Биология', 'Python'}) and {}  
+NameFunction: get_articles --> TimeCallFunction: 10-08-2022 08:14:17 --> FuncfArguments: ('https://habr.com/ru/all/', 'https://habr.com', {'Web', 'Видеотехника', 'Браузеры', 'Фото', 'Дизайн', 'Биология', 'Python'}) and {}  
+NameFunction: get_articles --> TimeCallFunction: 10-08-2022 09:14:17 --> FuncfArguments: ('https://habr.com/ru/all/', 'https://habr.com', {'Web', 'Видеотехника', 'Браузеры', 'Фото', 'Дизайн', 'Биология', 'Python'}) and {}  
